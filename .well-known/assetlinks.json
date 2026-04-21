@@ -9,4 +9,16 @@
       "A8:72:E3:B1:88:8B:E6:6F:09:0B:D3:93:63:C9:DC:AF:86:2C:3F:18:9E:89:5C:0A:A8:E7:5E:51:69:51:4F:81"
     ]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.flougher.tendedpro",
+    "sha256_cert_fingerprints": [
+      "15:1E:48:44:8D:9F:D0:B8:A1:00:03:C2:98:94:7F:73:C6:F0:40:82:E0:EA:80:3D:FA:32:70:88:04:23:DB:24",
+      "FD:D3:D2:C7:F9:34:0C:3E:17:2B:86:86:10:89:1B:28:53:E9:FA:C1:B6:A0:DF:20:FB:98:46:77:2A:22:03:62",
+      "A1:A9:7F:6B:87:16:85:9B:CB:5E:DD:8D:FE:6C:D7:97:45:E2:EA:4D:38:4F:45:21:4C:E9:28:2E:58:60:F1:51"
+    ]
+  }
 }]
